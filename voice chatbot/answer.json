@@ -12,6 +12,7 @@
             "year",
             "tell me about yourself",
             "tell me about you"
+
  
              
           ],
@@ -26,6 +27,29 @@
            "https://cdn.dribbble.com/users/1261045/screenshots/11402331/media/1968757c491841f0bafb6322b01c24f0.gif"
          ]
        },
+
+       {
+        "triggers":[
+            "what is your school",
+           "what school you are in",
+           "what school you go to",
+           "what is your university",
+           "what is your college"
+           
+          
+
+           
+        ],
+        "responses":[
+             "I am in New York University Tisch School of the Arts",
+            "I am in New York University Tisch School of the Arts, Interactive Media Art department"
+
+           
+        ],
+       "url":[
+         "https://cdn.dribbble.com/users/1261045/screenshots/11402331/media/1968757c491841f0bafb6322b01c24f0.gif"
+       ]
+     },
       
        {
           "triggers":[
